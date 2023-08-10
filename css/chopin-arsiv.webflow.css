@@ -568,7 +568,7 @@ p {
   opacity: 1;
 }
 
-.white {
+. {
   -webkit-transform: none;
   -ms-transform: none;
   transform: none;
@@ -2273,7 +2273,7 @@ p {
   overflow: visible;
   width: 100%;
   background-color: transparent;
-  transition: 0,5s ease;
+  transition: 1s ease;
 }
 
 .white_bg{
